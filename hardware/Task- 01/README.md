@@ -32,10 +32,10 @@ Pull down Resistor : resistor connected between a digital pin and GND to ensure 
 The LED started blinking when button was ON.
 
 ## Things Learnt:
-In Output Mode,<br>
-  HIGH of digital pin : 5v<br>
-  LOW of digital pin : 0v<br>
-  Maximum current : 40 mA<br>
-In Input mode,<br>
-  Pin has No specific voltage<br>
-  Pull Down Resistor
+#### Pin In Output Mode,
+- HIGH of digital pin : 5v<br>
+- LOW of digital pin : 0v<br>
+- Maximum current : 40 mA<br>
+#### Pin In Input mode,
+- Pin has No specific voltage<br>
+- Pull Down Resistor
