@@ -6,7 +6,7 @@ In this task,I learnt Aurdino basics in tinkercad by Simulate a simple LED blink
 
 ### Procedure
 - I connected the cathode of LED directly to the ground port in aurdino and the anode to digital pin 13 with 150 Ω resistor in series.
-- In programming terminal (code)[[hardware/Task- 01/Simulate a simple LED blink using Arduino/code.ino]] was implemented
+- In programming terminal [code](hardware/Task- 01/Simulate a simple LED blink using Arduino/code.ino) was implemented
 
 #### Theory:
 output voltage of digital pin : 5v<br>
