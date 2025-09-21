@@ -9,10 +9,10 @@ In this task,I learnt Arduino basics in tinkercad by Simulate a simple LED blink
 - In programming terminal [code](Simulate%20a%20simple%20LED%20blink%20using%20Arduino/code.ino) was implemented.
 
 ### Theory:
-output voltage of digital pin : 5v<br>
-current rating of LED : 20 mA<br>
-voltage rating of LED : 2v<br>
-resistance is required in series with LED(r)<br>
+**output voltage of digital pin** : 5v<br>
+**current rating of LED** : 20 mA<br>
+**voltage rating of LED** : 2v<br>
+**resistance is required in series with LED(r)**<br>
 using kirchoff loop rule<br>
 5 = (0.02 x r) + 2<br>
 r = 150 Ω<br>
