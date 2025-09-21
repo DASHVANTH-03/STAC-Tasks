@@ -2,8 +2,8 @@
 In this task,I learnt about photoresistor(LDR) and how analog input works in Arduino basics using Tinkercad by Simulateing a LED on/off depending on brightness of LDR sensor.
 
 ### Procedure
-- The [circuit]() connection was made.
-- In programming terminal [code]() was implemented.
+- The [circuit](circuit.png) connection was made.
+- In programming terminal [code](code.ino) was implemented.
 
 ### Theory:
 Photoresistor(LDR): resistance offered is inversely proportional to the amount of light shined in it<br>
