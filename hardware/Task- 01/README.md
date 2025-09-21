@@ -1,5 +1,5 @@
 # Tinkercad Basics
-In this task,I learnt Aurdino basics in tinkercad by Simulate a simple LED blink using Arduino and Control the blink with a button.
+In this task,I learnt Arduino basics in tinkercad by Simulate a simple LED blink using Arduino and Control the blink with a button.
 
 
 ## Simulate a simple LED blink using Arduino:
